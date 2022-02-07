@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59bb27fe-b34b-40dc-b3e9-2fc08f1e1a03": {
+      "ProjectGuid": "59bb27fe-b34b-40dc-b3e9-2fc08f1e1a03",
+      "DisplayName": "CF734-D2-A",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
