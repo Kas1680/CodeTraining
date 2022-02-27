@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\User\Desktop\CPSC\Project\JrCodeTr\CF731\Source.cpp(45,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  CF731.vcxproj -> C:\Users\User\Desktop\CPSC\Project\JrCodeTr\CF731\x64\Debug\CF731.exe
