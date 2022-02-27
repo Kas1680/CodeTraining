@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\CPSC\Project\JrCodeTr\CF265\Source.cpp(26,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\CPSC\Project\JrCodeTr\CF265\Source.cpp(29,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CF265.vcxproj -> C:\Users\User\Desktop\CPSC\Project\JrCodeTr\CF265\x64\Debug\CF265.exe
